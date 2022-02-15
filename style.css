@@ -1,0 +1,35 @@
+p{
+    font-size: xx-large;
+}
+li{
+    font-size: xx-large;
+    
+}
+
+h1{
+            
+    font-weight: 600px;
+    font-style: italic;
+    border-style: solid;
+    border-width: thick;
+    background-color: aqua;
+    border-radius: 20px;
+    border-color: rgb(15, 14, 14);
+    background-position: center;
+    margin:  25px 690px 110px;
+   font-size: 40px; 
+    padding: 5px;
+}
+img{
+    border-radius: 10%;
+    width: 500px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: rgb(7, 7, 7);
+    border-width: thick;
+}
+body{
+    background-color: rgb(7, 7, 7);
+}
